@@ -4,7 +4,7 @@ The Python package to control micrIO (and other devices such as *pressure manifo
 
 This repository contains supplemental information for `Longwell, S.A.; Fordyce, P.M. Lab on a Chip (2019).` It details how to assemble micrIO, as well as the experiment/data analysis used to validate the platform. 
 
-Large files (videos, images) are included in the repository as `git lfs` pointers.
+Large files (videos, images) are included in the repository as git-lfs pointers.
 
 ![Alt Text](overview.gif)
 
