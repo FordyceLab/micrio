@@ -1,0 +1,138 @@
+20171107_14:09:03 SETUP
+20171107_14:09:08 sampler at home
+20171107_14:09:12 collector at plate::name=waste1
+20171107_14:09:12 FLUSH
+20171107_14:09:14 flushing back 30 sec
+20171107_14:09:18 sampler at wash::contents=water
+20171107_14:09:48 flushing forward 30 sec
+20171107_14:09:56 sampler at wash::contents=ipa
+20171107_14:10:08 sampler at wash::contents=water
+20171107_14:10:26 purging air 5 sec
+20171107_14:10:31 setup in 87.5009999275 sec; bulb is ready (0 minimum)
+20171107_14:10:31 13 PRIME B02 bk
+20171107_14:10:44 sampler at plate::well=B02 c=bk
+20171107_14:11:14 loading blank code...
+20171107_14:11:14 manually adjusting pressures...
+20171107_14:15:52 FLUSH
+20171107_14:15:54 flushing back 30 sec
+20171107_14:16:07 sampler at wash::contents=water
+20171107_14:16:37 flushing forward 30 sec
+20171107_14:16:45 sampler at wash::contents=ipa
+20171107_14:16:57 sampler at wash::contents=water
+20171107_14:17:15 0 PRIME A01 eu
+20171107_14:17:29 sampler at plate::well=A01 c=eu
+20171107_14:18:05 0 BEADS A01 eu
+20171107_14:18:09 collector at plate::vial=1 c=eu
+20171107_14:18:09 stabilizing vial=1 eu for 40 sec
+20171107_14:18:49 polymerizing vial=1 eu for 300 sec
+20171107_14:23:49 FLUSH
+20171107_14:23:51 flushing back 25 sec
+20171107_14:24:04 sampler at wash::contents=water
+20171107_14:24:29 flushing forward 30 sec
+20171107_14:24:36 sampler at wash::contents=ipa
+20171107_14:24:48 sampler at wash::contents=water
+20171107_14:25:06 1 PRIME A02 dy
+20171107_14:25:19 sampler at plate::well=A02 c=dy
+20171107_14:25:55 1 BEADS A02 dy
+20171107_14:26:00 collector at plate::vial=2 c=dy
+20171107_14:26:00 stabilizing vial=2 dy for 40 sec
+20171107_14:26:40 polymerizing vial=2 dy for 300 sec
+20171107_14:31:41 FLUSH
+20171107_14:31:43 flushing back 25 sec
+20171107_14:31:55 sampler at wash::contents=water
+20171107_14:32:20 flushing forward 30 sec
+20171107_14:32:28 sampler at wash::contents=ipa
+20171107_14:32:39 sampler at wash::contents=water
+20171107_14:32:57 2 PRIME A03 sm
+20171107_14:33:09 sampler at plate::well=A03 c=sm
+20171107_14:33:45 2 BEADS A03 sm
+20171107_14:33:50 collector at plate::vial=3 c=sm
+20171107_14:33:50 stabilizing vial=3 sm for 40 sec
+20171107_14:34:30 polymerizing vial=3 sm for 300 sec
+20171107_14:39:30 FLUSH
+20171107_14:39:32 flushing back 25 sec
+20171107_14:39:45 sampler at wash::contents=water
+20171107_14:40:10 flushing forward 30 sec
+20171107_14:40:17 sampler at wash::contents=ipa
+20171107_14:40:29 sampler at wash::contents=water
+20171107_14:40:47 3 PRIME D06 eu
+20171107_14:41:01 sampler at plate::well=D06 c=eu
+20171107_14:41:37 3 BEADS D06 eu
+20171107_14:41:41 collector at plate::vial=4 c=eu
+20171107_14:41:41 stabilizing vial=4 eu for 40 sec
+20171107_14:42:21 polymerizing vial=4 eu for 300 sec
+20171107_14:47:21 FLUSH
+20171107_14:47:23 flushing back 25 sec
+20171107_14:47:39 sampler at wash::contents=water
+20171107_14:48:04 flushing forward 30 sec
+20171107_14:48:12 sampler at wash::contents=ipa
+20171107_14:48:24 sampler at wash::contents=water
+20171107_14:48:42 4 PRIME D07 dy
+20171107_14:48:56 sampler at plate::well=D07 c=dy
+20171107_14:49:32 4 BEADS D07 dy
+20171107_14:49:37 collector at plate::vial=5 c=dy
+20171107_14:49:37 stabilizing vial=5 dy for 40 sec
+20171107_14:50:17 polymerizing vial=5 dy for 300 sec
+20171107_14:55:17 FLUSH
+20171107_14:55:19 flushing back 25 sec
+20171107_14:55:36 sampler at wash::contents=water
+20171107_14:56:01 flushing forward 30 sec
+20171107_14:56:08 sampler at wash::contents=ipa
+20171107_14:56:20 sampler at wash::contents=water
+20171107_14:56:38 5 PRIME D08 sm
+20171107_14:56:52 sampler at plate::well=D08 c=sm
+20171107_14:57:28 5 BEADS D08 sm
+20171107_14:57:33 collector at plate::vial=6 c=sm
+20171107_14:57:33 stabilizing vial=6 sm for 40 sec
+20171107_14:58:13 polymerizing vial=6 sm for 300 sec
+20171107_15:03:13 FLUSH
+20171107_15:03:16 flushing back 25 sec
+20171107_15:03:32 sampler at wash::contents=water
+20171107_15:03:57 flushing forward 30 sec
+20171107_15:04:05 sampler at wash::contents=ipa
+20171107_15:04:17 sampler at wash::contents=water
+20171107_15:04:34 6 PRIME H10 eu
+20171107_15:04:54 sampler at plate::well=H10 c=eu
+20171107_15:05:30 6 BEADS H10 eu
+20171107_15:05:34 collector at plate::vial=7 c=eu
+20171107_15:05:34 stabilizing vial=7 eu for 40 sec
+20171107_15:06:14 polymerizing vial=7 eu for 300 sec
+20171107_15:11:14 FLUSH
+20171107_15:11:16 flushing back 25 sec
+20171107_15:11:38 sampler at wash::contents=water
+20171107_15:12:03 flushing forward 30 sec
+20171107_15:12:11 sampler at wash::contents=ipa
+20171107_15:12:23 sampler at wash::contents=water
+20171107_15:12:40 7 PRIME H11 dy
+20171107_15:13:00 sampler at plate::well=H11 c=dy
+20171107_15:13:36 7 BEADS H11 dy
+20171107_15:13:41 collector at plate::vial=8 c=dy
+20171107_15:13:41 stabilizing vial=8 dy for 40 sec
+20171107_15:14:21 polymerizing vial=8 dy for 300 sec
+20171107_15:19:22 FLUSH
+20171107_15:19:24 flushing back 25 sec
+20171107_15:19:46 sampler at wash::contents=water
+20171107_15:20:11 flushing forward 30 sec
+20171107_15:20:18 sampler at wash::contents=ipa
+20171107_15:20:30 sampler at wash::contents=water
+20171107_15:20:48 8 PRIME H12 sm
+20171107_15:21:07 sampler at plate::well=H12 c=sm
+20171107_15:21:43 8 BEADS H12 sm
+20171107_15:21:49 collector at plate::vial=9 c=sm
+20171107_15:21:49 stabilizing vial=9 sm for 40 sec
+20171107_15:22:29 polymerizing vial=9 sm for 300 sec
+20171107_15:27:29 FLUSH
+20171107_15:27:31 flushing back 25 sec
+20171107_15:27:53 sampler at wash::contents=water
+20171107_15:28:18 flushing forward 30 sec
+20171107_15:28:26 sampler at wash::contents=ipa
+20171107_15:28:38 sampler at wash::contents=water
+20171107_15:28:55 CLEANUP
+20171107_15:28:58 collector at plate::name=waste2
+20171107_15:28:58 FLUSH
+20171107_15:29:00 flushing back 20 sec
+20171107_15:29:15 sampler at wash::contents=water
+20171107_15:29:35 flushing forward 20 sec
+20171107_15:29:42 sampler at wash::contents=ipa
+20171107_15:29:54 sampler at wash::contents=water
+20171107_15:30:16 sampler at wash::name=waste

@@ -1,0 +1,6 @@
+channel	name
+0	all
+1	oil
+2	sampler
+3	wash
+4	sheath
