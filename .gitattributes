@@ -1,5 +1,3 @@
-assembly/assembly.mp4 filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.tif filter=lfs diff=lfs merge=lfs -text
 *.tiff filter=lfs diff=lfs merge=lfs -text
-validation/run/valdiation.mp4 filter=lfs diff=lfs merge=lfs -text
