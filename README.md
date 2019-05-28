@@ -11,7 +11,7 @@ Large files (videos, images) are included in the repository via git-lfs, which m
 
 ## `assembly/`
 - **`parts-list.xlsx`**: Start here. Details parts needed for each sub-assembly, example sourcing for commercial parts, and links to view/download custom parts (3D-printed/laser-cut).
-- **`parts/`**: Contains `.stl` files for 3D-printed parts and `.pdf` files for laser-cut parts (formatted for a Universal Laser Systems cutter). For other file formats, see links within `parts-list`. 
+- **`parts/`**: Contains `.stl` files for 3D-printed parts and `.pdf` files for laser-cut parts (formatted for a Universal Laser Systems cutter). For other file formats, see links within `parts-list.xlsx`. 
 - **`assembly.mp4`**: Walk-around of micrIO (to aid in assembly).
 
 
