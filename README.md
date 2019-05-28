@@ -1,9 +1,9 @@
 # micrIO:
 An open-source <ins>micro</ins>fluidic <ins>I</ins>nput-<ins>O</ins>utput platform comprising a specialized *autosampler* and *fraction collector*. 
 
-The Python package to control micrIO (and other devices such as *pressure manifolds*, *MFCS units*, and *syringe pumps*) is provided in the pip-installable `acqpack` repository.
+This repository contains supplemental information for `S.A. Longwell and P.M. Fordyce, Lab on a Chip (under review).` It details how to assemble micrIO, as well as the experiment/data analysis used to validate the platform. 
 
-This repository contains supplemental information for `Longwell, S.A.; Fordyce, P.M. Lab on a Chip (under review).` It details how to assemble micrIO, as well as the experiment/data analysis used to validate the platform. 
+The Python modules to control micrIO (and other devices such as *pressure manifolds*, *MFCS units*, and *syringe pumps*) is available in our pip-installable [`acqpack`](https://pypi.org/project/acqpack/) package.
 
 Large files (videos, images) are included in the repository via git-lfs. Downloading the repository as a .zip will not include these files.
 
