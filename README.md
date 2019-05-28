@@ -22,6 +22,6 @@ Large files (videos, images) are included in the repository via git-lfs. Downloa
     + **`log/`**: Log files produced from the run. 
     + **`validation.mp4`**: Shows micrIO integrated into a setup to perform the validation experiment.
 - **`analysis/`**
-    + **`images/`**: Images of beads produced from the validation run. There are 4-channels (*brightfield*, *Dy: 572 nm*, *Eu: 620 nm*, *Sm: 650*).
-    + **`bead_analysis.ipynb`**: Image analysis pipeline used to identify beads and generate size and channel intensity statistics.overview.gif
-[overview.gif]: 
+    + **`images/`**: Images of beads produced from the validation run. There are 10 channels, 4 of which were used in the manuscript's analysis (*brightfield*, *Dy: 572 nm*, *Eu: 620 nm*, *Sm: 650*).
+    + **`bead_analysis.ipynb`**: Image analysis pipeline used to identify beads and generate size and channel intensity figures and statistics.
+    
