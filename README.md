@@ -9,7 +9,9 @@ The Python software to control micrIO (and other devices such as *pressure manif
 
 Large files (videos, images) are included in the repository via git-lfs, which must be installed to have these files clone properly. Downloading the `.zip` from here will not include working versions of these files. (See [OSF: Google Drive](https://osf.io/86wf5/?view_only=c3bfd653adfa457480bd9e34eeaa98bf) mirror for easy viewing / downloading of these files) 
 
-![Alt Text](overview.gif)
+[Full CAD Link](https://a360.co/2IcW9vt)
+
+[![micrIO CAD](overview.gif)](https://a360.co/2IcW9vt)
 
 ## `assembly/`
 - **`parts-list.xlsx`**: Start here. Details parts needed for each sub-assembly, example sourcing for commercial parts, and links to view/download custom parts (3D-printed/laser-cut).
