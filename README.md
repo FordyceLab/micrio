@@ -14,18 +14,18 @@ Large files (videos, images) are included in the repository via git-lfs, which m
 [![micrIO CAD](overview.gif)](https://a360.co/2IcW9vt)
 
 ## [`assembly/`](https://github.com/FordyceLab/micrio/tree/master/assembly)
-- **`parts-list.xlsx`**: Start here. Details parts needed for each sub-assembly, example sourcing for commercial parts, and links to view/download custom parts (3D-printed/laser-cut).
-- [**`parts/`**](https://github.com/FordyceLab/micrio/tree/master/assembly/parts): Contains `.stl` files for 3D-printed parts and `.pdf` files for laser-cut parts (formatted for a Universal Laser Systems cutter). For other file formats, see links within `parts-list.xlsx`. 
-- [**`assembly.mp4`**](https://osf.io/6a3vq/?view_only=c3bfd653adfa457480bd9e34eeaa98bf): Walk-around of micrIO (to aid in assembly).
+- **`parts-list.xlsx`** Start here. Details parts needed for each sub-assembly, example sourcing for commercial parts, and links to view/download custom parts (3D-printed/laser-cut).
+- [**`parts/`**](https://github.com/FordyceLab/micrio/tree/master/assembly/parts) Contains `.stl` files for 3D-printed parts and `.pdf` files for laser-cut parts (formatted for a Universal Laser Systems cutter). For other file formats, see links within `parts-list.xlsx`. 
+- [**`assembly.mp4`**](https://osf.io/6a3vq/?view_only=c3bfd653adfa457480bd9e34eeaa98bf) Walk-around of micrIO (to aid in assembly).
 
 
 ## [`validation/`](https://github.com/FordyceLab/micrio/tree/master/validation)
 - [**`run/`**](https://github.com/FordyceLab/micrio/tree/master/validation/run)
-    + [**`config/`**](https://github.com/FordyceLab/micrio/tree/master/validation/run/config): The `.yaml` config files, frame transformations, and platemaps.
-    + [**`run.ipynb`**](https://github.com/FordyceLab/micrio/blob/master/validation/run/run.ipynb): The notebook used to script/record production of spectrally encoded beads.
-    + [**`log/`**](https://github.com/FordyceLab/micrio/tree/master/validation/run/log): Log files produced from the run. 
-    + [**`validation.mp4`**](https://osf.io/ydbtc/?view_only=c3bfd653adfa457480bd9e34eeaa98bf): Shows micrIO integrated into a setup to perform the validation experiment.
+    + [**`config/`**](https://github.com/FordyceLab/micrio/tree/master/validation/run/config) The `.yaml` config files, frame transformations, and platemaps.
+    + [**`run.ipynb`**](https://github.com/FordyceLab/micrio/blob/master/validation/run/run.ipynb) The notebook used to script/record production of spectrally encoded beads.
+    + [**`log/`**](https://github.com/FordyceLab/micrio/tree/master/validation/run/log) Log files produced from the run. 
+    + [**`validation.mp4`**](https://osf.io/ydbtc/?view_only=c3bfd653adfa457480bd9e34eeaa98bf) Shows micrIO integrated into a setup to perform the validation experiment.
 - [**`analysis/`**](https://github.com/FordyceLab/micrio/tree/master/validation/analysis)
-    + **`images/`**: Images of beads produced from the validation run. There are 10 channels, 4 of which were used in the manuscript's analysis (*brightfield*, *Dy: 572 nm*, *Eu: 620 nm*, *Sm: 650*).
-    + [**`bead_analysis.ipynb`**](https://github.com/FordyceLab/micrio/blob/master/validation/analysis/bead_analysis.ipynb): Image analysis pipeline used to identify beads and generate size and channel intensity figures and statistics.
+    + **`images/`** Images of beads produced from the validation run. There are 10 channels, 4 of which were used in the manuscript's analysis (*brightfield*, *Dy: 572 nm*, *Eu: 620 nm*, *Sm: 650*).
+    + [**`bead_analysis.ipynb`**](https://github.com/FordyceLab/micrio/blob/master/validation/analysis/bead_analysis.ipynb) Image analysis pipeline used to identify beads and generate size and channel intensity figures and statistics.
     
