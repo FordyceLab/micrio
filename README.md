@@ -1,3 +1,5 @@
+[Simple project download here via OSF](https://osf.io/86wf5/?view_only=c3bfd653adfa457480bd9e34eeaa98bf) (use Google Drive option)
+
 # micrIO:
 An open-source <ins>micro</ins>fluidic <ins>I</ins>nput-<ins>O</ins>utput platform comprising a specialized *autosampler* and *fraction collector*. 
 
