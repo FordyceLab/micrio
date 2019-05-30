@@ -1,4 +1,4 @@
-[Simple project download via OSF](https://osf.io/86wf5/?view_only=c3bfd653adfa457480bd9e34eeaa98bf) (use Google Drive option)
+[Simple Project Download via OSF \[2 GB\]](https://osf.io/86wf5/?view_only=c3bfd653adfa457480bd9e34eeaa98bf) (click: Google Drive > Download as zip)
 
 # micrIO:
 An open-source <ins>micro</ins>fluidic <ins>I</ins>nput-<ins>O</ins>utput platform comprising a specialized *autosampler* and *fraction collector*. 
@@ -7,7 +7,7 @@ This repository contains supplemental information for `S.A. Longwell and P.M. Fo
 
 The Python software to control micrIO (and other devices such as *pressure manifolds*, *MFCS units*, and *syringe pumps*) is available as our pip-installable [`acqpack`](https://pypi.org/project/acqpack/) package (documentation [here](https://acqpack.readthedocs.io/en/latest/)).
 
-Large files (videos, images) are included in the repository via git-lfs, which must be installed to have these files clone properly. Downloading the `.zip` from here will not include these files.
+Large files (videos, images) are included in the repository via git-lfs, which must be installed to have these files clone properly. Downloading the `.zip` from here will not include working versions of these files. (See OSF: [Google Drive](https://osf.io/86wf5/?view_only=c3bfd653adfa457480bd9e34eeaa98bf) mirror for easy viewing / downloading of these files 
 
 ![Alt Text](overview.gif)
 
