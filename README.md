@@ -15,7 +15,7 @@ Large files (videos, images) are included in the repository via git-lfs, which m
 
 ## [`assembly/`](https://github.com/FordyceLab/micrio/tree/master/assembly)
 - [**`parts-list.gsheet`**](https://docs.google.com/spreadsheets/d/17_JYHVy769XvpJGD3QiEPhoSL2Djqnr2_NVfNIwoY9A/edit?usp=sharing) Start here. Details parts needed for each sub-assembly, example sourcing for commercial parts, and links to view/download custom parts (3D-printed/laser-cut).
-- [**`parts/`**](https://github.com/FordyceLab/micrio/tree/master/assembly/parts) Contains `.stl` files for 3D-printed parts and `.pdf` files for laser-cut parts (formatted for a Universal Laser Systems cutter). For other file formats, see links within `parts-list.xlsx`. 
+- [**`parts/`**](https://github.com/FordyceLab/micrio/tree/master/assembly/parts) Contains `.stl` files for 3D-printed parts and `.pdf` files for laser-cut parts (formatted for a Universal Laser Systems cutter). For other file formats, see links within `parts-list.gsheet`. 
 - [**`assembly.mp4`**](https://osf.io/6a3vq/?view_only=c3bfd653adfa457480bd9e34eeaa98bf) Walk-around of micrIO (to aid in assembly).
 
 
