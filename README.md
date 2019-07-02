@@ -1,7 +1,7 @@
 [Simple Project Download via OSF \[2 GB\]](https://osf.io/86wf5/?view_only=c3bfd653adfa457480bd9e34eeaa98bf) (click: Google Drive > Download as zip)
 
 # micrIO:
-An open-source <ins>micro</ins>fluidic <ins>I</ins>nput-<ins>O</ins>utput platform comprising a specialized *autosampler* and *fraction collector*. 
+An open-source <ins>micr</ins>ofluidic <ins>I</ins>nput-<ins>O</ins>utput platform comprising a specialized *autosampler* and *fraction collector*. 
 
 This repository contains supplemental information for [`S.A. Longwell and P.M. Fordyce (under review)`](https://www.biorxiv.org/content/10.1101/655324v1). It details how to assemble micrIO, as well as the experiment/data analysis used to validate the platform. 
 
