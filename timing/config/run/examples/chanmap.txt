@@ -1,0 +1,6 @@
+channel	name
+0	all
+1	wash_out
+2	sampler
+3	wash_in
+4	none

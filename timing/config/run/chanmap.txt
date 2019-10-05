@@ -1,0 +1,6 @@
+channel	inlet
+0	all
+1	wash
+2	sampler
+3	 
+4	 

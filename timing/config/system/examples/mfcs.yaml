@@ -1,0 +1,6 @@
+serial_number: 758  # mfcs serial number (int or list of int) 
+
+alpha_default: 2  # default alpha parameter for the pid controller (all channels)
+
+pressure_unit: psi
+conversion_to_mbar: 68.94  # pressure_unit * conversion_to_mbar = mbar

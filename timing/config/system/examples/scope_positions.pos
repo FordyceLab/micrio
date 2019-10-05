@@ -1,0 +1,161 @@
+{
+   "VERSION": 3,
+   "ID": "Micro-Manager XY-position list",
+   "POSITIONS": [
+      {
+         "GRID_COL": 0,
+         "DEVICES": [
+            {
+               "DEVICE": "ZStage",
+               "AXES": 1,
+               "Y": 0,
+               "X": 22234.990625000002,
+               "Z": 0
+            },
+            {
+               "DEVICE": "XY",
+               "AXES": 2,
+               "Y": -0,
+               "X": -0,
+               "Z": 0
+            },
+            {
+               "DEVICE": "XYStage",
+               "AXES": 2,
+               "Y": 5186.53,
+               "X": -15790.17,
+               "Z": 0
+            }
+         ],
+         "PROPERTIES": {},
+         "DEFAULT_Z_STAGE": "ZStage",
+         "LABEL": "T",
+         "GRID_ROW": 0,
+         "DEFAULT_XY_STAGE": "XYStage"
+      },
+      {
+         "GRID_COL": 0,
+         "DEVICES": [
+            {
+               "DEVICE": "ZStage",
+               "AXES": 1,
+               "Y": 0,
+               "X": 22235.009375,
+               "Z": 0
+            },
+            {
+               "DEVICE": "XY",
+               "AXES": 2,
+               "Y": -0,
+               "X": -0,
+               "Z": 0
+            },
+            {
+               "DEVICE": "XYStage",
+               "AXES": 2,
+               "Y": 15086,
+               "X": 2610.53,
+               "Z": 0
+            }
+         ],
+         "PROPERTIES": {},
+         "DEFAULT_Z_STAGE": "ZStage",
+         "LABEL": "IN",
+         "GRID_ROW": 0,
+         "DEFAULT_XY_STAGE": "XYStage"
+      },
+      {
+         "GRID_COL": 0,
+         "DEVICES": [
+            {
+               "DEVICE": "ZStage",
+               "AXES": 1,
+               "Y": 0,
+               "X": 22235,
+               "Z": 0
+            },
+            {
+               "DEVICE": "XY",
+               "AXES": 2,
+               "Y": -0,
+               "X": -0,
+               "Z": 0
+            },
+            {
+               "DEVICE": "XYStage",
+               "AXES": 2,
+               "Y": 3985.9300000000003,
+               "X": 4110.35,
+               "Z": 0
+            }
+         ],
+         "PROPERTIES": {},
+         "DEFAULT_Z_STAGE": "ZStage",
+         "LABEL": "OUT",
+         "GRID_ROW": 0,
+         "DEFAULT_XY_STAGE": "XYStage"
+      },
+      {
+         "GRID_COL": 0,
+         "DEVICES": [
+            {
+               "DEVICE": "ZStage",
+               "AXES": 1,
+               "Y": 0,
+               "X": 22436.7,
+               "Z": 0
+            },
+            {
+               "DEVICE": "XY",
+               "AXES": 2,
+               "Y": -0,
+               "X": -0,
+               "Z": 0
+            },
+            {
+               "DEVICE": "XYStage",
+               "AXES": 2,
+               "Y": 1288.44,
+               "X": -13991.050000000001,
+               "Z": 0
+            }
+         ],
+         "PROPERTIES": {},
+         "DEFAULT_Z_STAGE": "ZStage",
+         "LABEL": "oil",
+         "GRID_ROW": 0,
+         "DEFAULT_XY_STAGE": "XYStage"
+      },
+      {
+         "GRID_COL": 0,
+         "DEVICES": [
+            {
+               "DEVICE": "ZStage",
+               "AXES": 1,
+               "Y": 0,
+               "X": 22235.109375,
+               "Z": 0
+            },
+            {
+               "DEVICE": "XY",
+               "AXES": 2,
+               "Y": -0,
+               "X": -0,
+               "Z": 0
+            },
+            {
+               "DEVICE": "XYStage",
+               "AXES": 2,
+               "Y": 10986.92,
+               "X": -13590.4,
+               "Z": 0
+            }
+         ],
+         "PROPERTIES": {},
+         "DEFAULT_Z_STAGE": "ZStage",
+         "LABEL": "waste",
+         "GRID_ROW": 0,
+         "DEFAULT_XY_STAGE": "XYStage"
+      }
+   ]
+}
