@@ -1,7 +1,7 @@
 [Simple Project Download via OSF \[2 GB\]](https://osf.io/86wf5/?view_only=c3bfd653adfa457480bd9e34eeaa98bf) (click: Google Drive > Download as zip)
 
 # micrIO:
-An open-source <ins>micro</ins>fluidic <ins>I</ins>nput-<ins>O</ins>utput platform comprising a specialized *autosampler* and *fraction collector*. 
+An open-source <ins>micr</ins>ofluidic <ins>I</ins>nput-<ins>O</ins>utput platform comprising a specialized *autosampler* and *fraction collector*. 
 
 This repository contains supplemental information for [`S.A. Longwell and P.M. Fordyce (under review)`](https://www.biorxiv.org/content/10.1101/655324v1). It details how to assemble micrIO, as well as the experiment/data analysis used to validate the platform. 
 
@@ -15,7 +15,7 @@ Large files (videos, images) are included in the repository via git-lfs, which m
 
 ## [`assembly/`](https://github.com/FordyceLab/micrio/tree/master/assembly)
 - [**`parts-list.gsheet`**](https://docs.google.com/spreadsheets/d/17_JYHVy769XvpJGD3QiEPhoSL2Djqnr2_NVfNIwoY9A/edit?usp=sharing) Start here. Details parts needed for each sub-assembly, example sourcing for commercial parts, and links to view/download custom parts (3D-printed/laser-cut).
-- [**`parts/`**](https://github.com/FordyceLab/micrio/tree/master/assembly/parts) Contains `.stl` files for 3D-printed parts and `.pdf` files for laser-cut parts (formatted for a Universal Laser Systems cutter). For other file formats, see links within `parts-list.xlsx`. 
+- [**`parts/`**](https://github.com/FordyceLab/micrio/tree/master/assembly/parts) Contains `.stl` files for 3D-printed parts and `.pdf` files for laser-cut parts (formatted for a Universal Laser Systems cutter). For other file formats, see links within `parts-list.gsheet`. 
 - [**`assembly.mp4`**](https://osf.io/6a3vq/?view_only=c3bfd653adfa457480bd9e34eeaa98bf) Walk-around of micrIO (to aid in assembly).
 
 
